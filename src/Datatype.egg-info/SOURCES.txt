@@ -1,0 +1,10 @@
+pyproject.toml
+src/Datatype/Datatype.py
+src/Datatype/__init__.py
+src/Datatype/py.typed
+src/Datatype.egg-info/PKG-INFO
+src/Datatype.egg-info/SOURCES.txt
+src/Datatype.egg-info/dependency_links.txt
+src/Datatype.egg-info/requires.txt
+src/Datatype.egg-info/top_level.txt
+tests/test_Datatype.py

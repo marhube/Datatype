@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: bloblo
+Version: 0.0.1
+Summary: Obtain information about datatypes og Pandas dataframes 
+Author-email: Martin Hunting <martin.hunting@hotmail.com>
+License: MIT License
+Project-URL: Homepage, https://github.com/yourusername/my_package
+Project-URL: Documentation, https://yourusername.github.io/my_package
+Project-URL: Source, https://github.com/yourusername/my_package
+Project-URL: Tracker, https://github.com/yourusername/my_package/issues
+Requires-Python: >=3.7
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pyarrow

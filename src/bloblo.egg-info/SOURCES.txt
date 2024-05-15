@@ -1,0 +1,10 @@
+pyproject.toml
+src/Datatype/__init__.py
+src/Datatype/get_datatype.py
+src/Datatype/py.typed
+src/bloblo.egg-info/PKG-INFO
+src/bloblo.egg-info/SOURCES.txt
+src/bloblo.egg-info/dependency_links.txt
+src/bloblo.egg-info/requires.txt
+src/bloblo.egg-info/top_level.txt
+tests/test_get_datatype.py
